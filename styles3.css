@@ -6,8 +6,9 @@ body {
   font-family: "Playpen Sans", cursive;
 }
 
+
 .encabezado {
-  background-color: gray;
+  background-color: rgb(131, 128, 128);
   width: 100%;
   display: flex;
   align-items: center;

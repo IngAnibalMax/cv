@@ -13,8 +13,9 @@ if (textoTitulo=="minombre"){
     titulo.innerHTML = "otro";
 }
 else{
-    console.log("No se cumple")
+    console.log("Este es un aviso de prueba = No se cumple")
 }
+
 
 let nombre1="Aníbal Max";
 let ciudad="Bogotá Colómbia";
